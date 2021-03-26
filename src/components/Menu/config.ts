@@ -35,6 +35,12 @@ const config: MenuEntry[] = [
     icon: 'GeyserIcon',
     href: 'https://app.polarisdefi.io/#',
   },
+  {
+    label: 'Certik Audit',
+    icon: 'AuditIcon',
+    href: 'https://www.certik.org/projects/polarisdefi',
+  },
+
 
   // {
   //   label: 'Pools',
